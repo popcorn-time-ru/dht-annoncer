@@ -1,0 +1,8 @@
+{
+  "name": "popcorn-dht-server",
+  "version": "1.0.0",
+  "dependencies": {
+    "bittorrent-dht-store-keypair": "^3.0",
+    "bittorrent-dht": "^10.0"
+  }
+}
